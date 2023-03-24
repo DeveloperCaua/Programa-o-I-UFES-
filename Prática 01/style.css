@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#titulo, #titulo2 {
+  border:2px solid black;
+  padding-left: 10px;
+}
+
+#link1, #link2, #link3 {
+  border:1px solid black;
+  padding: 5px;
+}
+
+.conteudo_principal {
+  border:2px solid black; 
+  padding: 25px;
+}
+
+#poema {
+  border: 1px solid black;
+  padding-bottom: 400px;
+  padding-left: 10px;
+}
+
+#rodapé, #rodapé1, #rodapé2{
+  border: 1px solid black;
+  padding-left: 10px;
+}
+
+#email, #telefone {
+  border: 1px solid black;
+  padding: 5px;
+  line-height: 0;
+}
+
+#lista, #lista1 {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#botão {
+  border: 1px solid  black;
+  padding: 10px;
+  width: 170px;
+  height: 20px;
+}
+
+#imagem {
+  border: 1px solid black;
+  padding: 5px;
+  width: 270px;
+  height: 290px;
+}
